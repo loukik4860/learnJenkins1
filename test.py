@@ -1,2 +1,3 @@
 print("Wassup Buddy!! v9")
 print("this is version 7")
+print("above script has been successfull")
